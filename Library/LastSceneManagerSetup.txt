@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DissertationProject/Scenes/About.unity
+  isLoaded: 1
+  isActive: 1
